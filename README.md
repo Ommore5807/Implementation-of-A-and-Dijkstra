@@ -9,8 +9,13 @@ Dowload the IPYNB files and open in the google collab and execute all the cells.
 
 # This is how the results looks
 After implementation, one of the end results look as below:
+
+
+
 ## A-Star Result:
-<img width="350" alt="image" src="https://github.com/PhanindratejaThammi/Implementation-of-A-and-Dijkstra-on-a-Quarry-area/assets/133595608/379162d9-54e5-4baf-8369-7fc5857c7c41">
+![A* Algorithm](A%20star.jpg)
+
 
 ## Dijkstra Result:
-<img width="350" alt="image" src="https://github.com/PhanindratejaThammi/Implementation-of-A-and-Dijkstra-on-a-Quarry-area/assets/133595608/d9475ae4-aad8-444d-8c84-6ae4c05ff93a">
+![Dijkstra Algorithm](Dijkstra.jpg)
+
